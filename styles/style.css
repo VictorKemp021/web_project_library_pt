@@ -354,14 +354,14 @@
   box-sizing: border-box;
   background-color: #1f1f1f;
   color: #ffffff;
-  padding: 16px 80px;
+  padding: 60px 80px;
   font-size: 16px;
   line-height: 20px;
 }
 
 .footer__columns {
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
   gap: 80px;
   margin-bottom: 60px;
 }
