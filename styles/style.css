@@ -360,8 +360,8 @@
 }
 
 .footer__columns {
-    display: flex;
-  margin-bottom: 60px;
+  display: flex;
+  margin-bottom: 100px;
 }
 
 .footer__column_content_hours {
